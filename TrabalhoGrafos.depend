@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511891345 source:c:\users\cmdrl\documents\c++ projects\trabalhografos\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"grafo.h"
+	<algorithm>
+	<string>
+
+1511894209 c:\users\cmdrl\documents\c++ projects\trabalhografos\include\grafo.h
+
